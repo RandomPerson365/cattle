@@ -79,7 +79,7 @@ const Contact = () => {
                   <div className="contact-icon">🌐</div>
                   <div className="contact-text">
                     <h4>Website</h4>
-                    <p>www.BREEDNET.com</p>
+                    <p>BreedNet.vercel.app</p>
                   </div>
                 </div>
               </div>
